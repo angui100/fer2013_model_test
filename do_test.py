@@ -17,7 +17,7 @@ from keras.models import load_model
 #os.chdir(BASEPATH)
 MODELPATH = './models/model.h5'
 
-emotion_dict = {0: "Angry", 1: "Disgust", 2: "Fear", 3: "Happy", 4: "Sad", 5: "Surprise", 6: "Neutral"}
+emotion_dict = {0: "Angery", 1: "Disgust", 2: "Fear", 3: "Happy", 4: "Sad", 5: "Surprise", 6: "Neutral"}
 
 model = load_model(MODELPATH)
 
