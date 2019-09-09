@@ -27,7 +27,7 @@ sudo pip install opencv-contrib-python
 -- pip install -r requirements.txt
 
 ### Running tests
-cd Model_Test
+cd FER2013_Model_Test
 You can run the tests with:
 
 ```
