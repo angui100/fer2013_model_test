@@ -16,9 +16,9 @@ This is a piece of reality test program for testing the trained ML data model.
 ### set up python virtual environment
 -- python3 -m venv the-name-of-your-python-virtual-environment
 -- source the-name-of-your-python-virtual-environment/bin/activate
--- For example as below
-python3 -m venv emovm
-source emovm/bin/activate
+-- For example as below<br>
+_ python3 -m venv emovm<br>
+- source emovm/bin/activate
 
 ### install the opencv (opencv-contrib-python-4.1.1.26) opencv does not work
 sudo pip install opencv-contrib-python
