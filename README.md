@@ -4,7 +4,7 @@ This is a piece of reality test program for testing the trained ML data model.
 ## Set environment
 
 ### clone this github repo
-- git clone 
+- git clone https://github.com/angui100/fer2013_model_test.git
 
 ### install python3.7
 - Take reference from URL: https://realpython.com/installing-python/
