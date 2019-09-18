@@ -24,10 +24,11 @@ This is a piece of reality test program for testing the trained ML data model.
 sudo pip install opencv-contrib-python
 
 ### install all required packaged (denpendences)
+cd FER2013_Model_Test
 - pip install -r requirements.txt
 
 ### Running tests
-cd FER2013_Model_Test
+
 You can run the tests with:
 
 ```
